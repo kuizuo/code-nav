@@ -1,0 +1,36 @@
+export default [{
+  name: '腾讯云',
+  desc: '腾讯云为数百万的企业和开发者提供安全稳定的云计算服务，涵盖云服务器、云数据库、云存储、视频与CDN、域名注册等全方位云服务和各行业解决方案。',
+  icon: 'https://cloudcache.tencent-cloud.com/qcloud/portal/kit/images/slice/logo.23996906.svg',
+  link: 'https://cloud.tencent.com/',
+  tags: ['云服务', '开发平台'],
+},
+{
+  name: '阿里云',
+  desc: '全球领先的云计算及人工智能科技公司，阿里云为200多个国家和地区的企业、开发者和政府机构提供云计算基础服务及解决方案。阿里云云计算、安全、大数据、人工智能、企业应用、物联网等云计算服务',
+  icon: 'https://img.alicdn.com/tfs/TB13DzOjXP7gK0jSZFjXXc5aXXa-212-48.png',
+  link: 'https://www.aliyun.com/',
+  tags: ['云服务', '开发平台'],
+},
+{
+  name: '七牛云',
+  desc: '国内知名的云计算及数据服务提供商，持续在海量文件存储、CDN 内容分发、视频点播、互动直播与智能分析服务',
+  icon: 'https://sso.qiniu.com/asserts/icon-qiniu-with-title.png',
+  link: 'https://www.qiniu.com/',
+  tags: ['云服务', '开发平台'],
+},
+{
+  name: '又拍云',
+  desc: '又拍云是专注 CDN 、云存储、小程序开发方案、 短视频开发方案、DDoS高防等产品的国内知名企业级云服务商',
+  icon: 'https://cdn.jsdelivr.net/gh/wuzhiguang1/bolgfile@1.8/tool/static/picture/ue5b939c07c9040209ee5a35ab402f83bz.jpg',
+  link: 'https://www.qiniu.com/',
+  tags: ['云服务', '开发平台'],
+},
+{
+  name: 'LeanCloud',
+  desc: '领先的 Serverless 云服务，为产品开发提供强有力的后端支持',
+  icon: 'https://leancloud.app/apple-touch-icon.png',
+  link: 'https://leancloud.app/',
+  tags: ['云服务', '开发平台'],
+},
+]

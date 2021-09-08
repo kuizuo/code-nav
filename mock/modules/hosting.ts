@@ -1,0 +1,36 @@
+export default [{
+  name: 'GitHub',
+  desc: '全球最大的软件项目托管平台，发现优质开源项目',
+  icon: 'https://github.githubassets.com/favicons/favicon.svg',
+  link: 'https://github.com/',
+  tags: ['GitHub', '代码托管', '项目源码', '社区'],
+},
+{
+  name: 'Gitee',
+  desc: '蚂蚁集团全新一代数据可视化解决方案',
+  icon: 'https://gitee.com/static/images/logo-black.svg',
+  link: 'https://gitee.com/',
+  tags: ['代码托管', '项目源码'],
+},
+{
+  name: 'Coding',
+  desc: '提供一站式开发协作工具，帮助研发团队快速落地敏捷开发与 DevOps 开发方式，实现研发效能升级',
+  icon: 'https://dn-coding-net-production-static.codehub.cn/platform/favicon.ico',
+  link: 'https://coding.net/',
+  tags: ['代码托管', '项目源码'],
+},
+{
+  name: 'Vercel',
+  desc: 'Vercel将最好的开发人员体验与对最终用户性能的执着关注相结合。',
+  icon: 'https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/57x57.png',
+  link: 'https://vercel.com/',
+  tags: ['代码托管'],
+},
+{
+  name: 'Netlify',
+  desc: 'Netlify 是一家提供静态网站托管的云平台，支持从 Github, GitLab, Bitbucket 等代码仓库中自动拉取代码 然后进行项目打包和部署等功能。',
+  icon: 'https://www.netlify.com/v3/static/favicon/apple-touch-icon.png',
+  link: 'https://www.netlify.com/',
+  tags: ['代码托管'],
+},
+]
